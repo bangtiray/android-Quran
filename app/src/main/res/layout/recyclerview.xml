@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/list">
+
+    <FrameLayout
+        android:id="@+id/toolbar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@drawable/list" />
+
+        <com.miguelcatalan.materialsearchview.MaterialSearchView
+            android:id="@+id/search_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:cacheColorHint="@android:color/transparent"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="vertical">
+
+        </android.support.v7.widget.RecyclerView>
+    </FrameLayout>
+    <!--<RelativeLayout-->
+
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!---->
+
+    <!--&lt;!&ndash;<ProgressBar&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/progress_bar"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="48dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="48dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_centerHorizontal="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_centerVertical="true" />&ndash;&gt;-->
+    <!--</RelativeLayout>-->
+</android.support.constraint.ConstraintLayout>

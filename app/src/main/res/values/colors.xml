@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorGray">#495C67</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="divider">#efefef</color>
+
+    <color name="colorOrange">#F68159</color>
+    <color name="colorLightGray">#a6abae</color>
+    <color name="colorError">#ff5252</color>
+    <color name="colorBackroundWhite">#f0f2ea</color>
+
+
+    <color name="tab_select_txt">#5983f0</color>
+    <color name="tab_select_txt_green">#16fa01</color>
+    <color name="tab_select_txt_yellow">#ffd500</color>
+    <color name="tab_select_txt_red">#ea0f25</color>
+    <color name="tab_unselect_txt">#c3c9da</color>
+
+
+
+
+    <color name="white">#ffffff</color>
+    <color name="orange">#EF6C00</color>
+    <color name="dark_orange">#E65100</color>
+    <color name="text_color">#272928</color>
+    <!--<color name="text_color">#292f33</color>-->
+    <color name="black">#000000</color>
+    <color name="light_text">#c3c4c4</color>
+    <color name="medium_text">#7e7e7e</color>
+
+    <!--<color name="medium_text">#898989</color>-->
+    <color name="light_grey">#ECEFF1</color>
+    <color name="transparent">#80000000</color>
+    <color name="green">#3f7600</color>
+
+    <color name="light_white">#d5d5d5</color>
+    <color name="dull_white">#F5F5F5</color>
+
+    <color name="bottom_bar_text_color">#6b6d7b</color>
+    <color name="red">#B71C1C</color>
+
+    <color name="tab_select_txt_1">#ad9614</color>
+    <color name="tab_unselect_txt_1">#000000</color>
+    <color name="bottom_bar">#4c4c4c</color>
+    <color name="dark_white">#efeeec</color>
+    <color name="yellow">#FFC107</color>
+    <color name="light_blue">#d7effe</color>
+    <color name="dark_blue">#28a7fc</color>
+    <color name="selected_tab_color">#0096ff</color>
+    <color name="unselected_tab">#acacac</color>
+    <color name="dark_text">#4d4d4d</color>
+
+
+
+    <color name="theme_primary">#2196F3</color>
+    <color name="theme_primary_dark">#1976D2</color>
+    <color name="theme_primary_light">#BBDEFB</color>
+
+    <color name="theme_background">#FFFFFF</color>
+    <color name="theme_background_inverse">#212121</color>
+
+    <color name="theme_accent_1">#212121</color>
+
+    <color name="theme_primary_trans">#99212121</color>
+
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <color name="theme_divider">#B6B6B6</color>
+</resources>
